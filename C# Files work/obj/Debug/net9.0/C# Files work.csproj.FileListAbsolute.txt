@@ -1,0 +1,15 @@
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\bin\Debug\net9.0\C# Files work.exe
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\bin\Debug\net9.0\C# Files work.deps.json
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\bin\Debug\net9.0\C# Files work.runtimeconfig.json
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\bin\Debug\net9.0\C# Files work.dll
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\bin\Debug\net9.0\C# Files work.pdb
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.AssemblyInfoInputs.cache
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.AssemblyInfo.cs
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.csproj.CoreCompileInputs.cache
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.sourcelink.json
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.dll
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\refint\C# Files work.dll
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.pdb
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\C# Files work.genruntimeconfig.cache
+C:\Users\joely\OneDrive\Documents\GitHub\C-Sharp-Practice\C# Files work\obj\Debug\net9.0\ref\C# Files work.dll
